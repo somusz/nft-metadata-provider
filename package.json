@@ -1,0 +1,28 @@
+{
+  "name": "t-nft-meta",
+  "version": "1.0.0",
+  "description": "Metadata API for NFTs",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bitbeaver-r/t-nft-meta.git"
+  },
+  "keywords": [
+    "NFT",
+    "crypto",
+    "metadata"
+  ],
+  "author": "Bit Beaver",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/bitbeaver-r/t-nft-meta/issues"
+  },
+  "homepage": "https://github.com/bitbeaver-r/t-nft-meta#readme",
+  "dependencies": {
+    "express": "^4.17.2"
+  }
+}
